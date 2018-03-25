@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StandaloneTarget>
+    <PythonInterpreter>
+      <Id>Global|PythonCore|3.6</Id>
+    </PythonInterpreter>
+    <WorkingDirectory>E:\visualstudio 17</WorkingDirectory>
+    <Script>E:\gcloud\google-cloud-sdk\platform\gsutil\third_party\python-gflags\setup.py</Script>
+    <Arguments>run</Arguments>
+  </StandaloneTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\dodynofri\AppData\Local\Temp\setup1_20180325.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>

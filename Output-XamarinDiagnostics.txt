@@ -1,0 +1,13 @@
+﻿[I:sdk]:                    Key HKCU\SOFTWARE\Xamarin\VisualStudio\15.0_fec2d84a\Android\AndroidSdkDirectory found:
+    Path contains adb in \platform-tools (C:\Program Files (x86)\Android\android-sdk).
+[I:sdk]:                    Key HKCU\SOFTWARE\Xamarin\VisualStudio\15.0_fec2d84a\Android\AndroidNdkDirectory not found.
+[I:sdk]:                    Key HKCU\SOFTWARE\Xamarin\VisualStudio\15.0_fec2d84a\Android\JavaSdkDirectory found:
+    Path contains jarsigner.exe in \bin (C:\Program Files (x86)\Java\jdk1.8.0_161).
+[I:sdk]:                  Looking for Android NDK..
+[I:sdk]:                    Key HKCU\SOFTWARE\Xamarin\VisualStudio\15.0_fec2d84a\Android\AndroidNdkDirectory not found.
+[I:sdk]:                    Key HKLM\SOFTWARE\Xamarin\VisualStudio\15.0_fec2d84a\Android\AndroidNdkDirectory not found.
+[I:]:                     Found Xamarin.Android 8.2.0.16
+[I:]:                     Found Android SDK. API levels: 25
+[I:]:                     Found Xamarin.Android 8.2.0.16
+[I:sdk]:                  Runtime path: E:\visualstudio 17\MSBuild\Xamarin\Android
+[I:sdk]:                  Framework path: E:\visualstudio 17\Common7\IDE\ReferenceAssemblies\Microsoft\Framework\MonoAndroid\v1.0
